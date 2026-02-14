@@ -1,0 +1,24 @@
+{
+  "name": "gtonline3.0-mini-projeto-javascript",
+  "version": "1.0.0",
+  "description": "Nosso projeto vai ser uma lista de tarefas. Pode parecer simples, mas, iremos ver como unir as ferramentas de estruturas de repetição, estruturas de condição e requisições HTTP, ferramentas essas que você utilizará no seu dia-a-dia como desenvolvedor.",
+  "main": "script.js",
+  "scripts": {
+    "api": "npx json-server api.json --watch --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estevao750/GTONLINE3.0-Mini-Projeto-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Estevao750/GTONLINE3.0-Mini-Projeto-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Estevao750/GTONLINE3.0-Mini-Projeto-JavaScript#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
